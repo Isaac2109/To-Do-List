@@ -13,5 +13,5 @@
 # Screenshots
 
 <div align="center">
-<img src="[https://github.com/Isaac2109/To-Do-List/assets/113056042/6400ecb0-ddc0-40b7-a328-5eeaaeb3c99d" width="450px" />
+<img src="https://github.com/Isaac2109/To-Do-List/assets/113056042/6400ecb0-ddc0-40b7-a328-5eeaaeb3c99d" width="450px" />
 </div>
